@@ -24,7 +24,6 @@
 Spring框架由6个定义良好的模块分类组成
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ae93f1cad1f846d7817bc2971578e561~tplv-k3u1fbpfcp-watermark.image)
-
 ## 4.bean的作用域
 默认情况下，Spring应用上下文中所有的bean都是作为单例的形式创建的。多数情况下，单例bean是很理想的方案，这些对象是无状态的且可以在应用程序中反复使用。有时候，对象会保持一些状态，因此重用是不安全的。
 
